@@ -1,2 +1,2 @@
 # conflict-resolution
-cloning having conflict-resolution
+cloning having conflicts when mergin and how to fix it.
